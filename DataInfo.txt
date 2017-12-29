@@ -1,0 +1,15 @@
+Column 1: Subject ID 
+Column 2: Video ID
+Column 3: Attention (Proprietary measure of mental focus)
+Column 4: Mediation (Proprietary measure of calmness)
+Column 5: Raw (Raw EEG signal)
+Column 6: Delta (1-3 Hz of power spectrum)
+Column 7: Theta (4-7 Hz of power spectrum)
+Column 8: Alpha 1 (Lower 8-11 Hz of power spectrum)
+Column 9: Alpha 2 (Higher 8-11 Hz of power spectrum)
+Column 10: Beta 1 (Lower 12-29 Hz of power spectrum)
+Column 11: Beta 2 (Higher 12-29 Hz of power spectrum)
+Column 12: Gamma 1 (Lower 30-100 Hz of power spectrum)
+Column 13: Gamma 2 (Higher 30-100 Hz of power spectrum)
+Column 14: predefined label (whether the subject is expected to be confused)
+Column 15: user-defined label (whether the subject is actually confused)
