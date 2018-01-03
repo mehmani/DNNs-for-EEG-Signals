@@ -45,10 +45,25 @@ Table 1 shows the features of this data set.
     </tr>
     </table>
 
-## Model: 
-Bidirectional LSTM convolutional networks classifier with the following stricture is used for this study:
+## Model
+Bidirectional LSTM networks with convolutional layer to extract the siganl features is used as a classifier with the arcitecture illsutrated in Fig. 1, is used in this study:
 
 <p align="center">
   <img src="model_plot.png" width="500"/>
   <figcaption>Figure 1 : Model Architecturee</figcaption>
 </p>
+
+## Result
+Here, a trained classifieres on the data from all but one student, is tested on the held-out student. 
+The procedure is performed for each student and the acciracy of the classificatio is presented in Figure 2 
+
+
+
+Figure 3 and Figure 4 show the recently published results using the same data set and accuracy metrics.
+
+## Code
+The code is presented here
+
+## Refrences
+[1]
+[2]
