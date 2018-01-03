@@ -1,4 +1,4 @@
-# Bidirectional Recurrent Convolutional Networks for Disentangling Brain Activity from EEG Data
+![alt text](screenshots/filename.png "Description goes here")# Bidirectional Recurrent Convolutional Networks for Disentangling Brain Activity from EEG Data
 
 In this study a collected students' EEG brain activity while watching online courses (video clips) is used to train a classifier that detects when a student is confused. In doing so, a bidirectional recurrent convolutional networks classifier is used.
 
@@ -46,5 +46,6 @@ Table 1 shows the features of this data set.
 ## Model: 
 Bidirectional recurrent convolutional networks classifier with the following stricture is used for this study:
 
-image:: LSTM-for-EGG-Signal/model_plot.png 
+ 
+![alt text](LSTM-for-EGG-Signal/model_plot.png "Figure 1 - Model Architecture")
 
