@@ -49,4 +49,5 @@ Bidirectional LSTM convolutional networks classifier with the following strictur
 ![alt text](model_plot.png "Figure 1 : Model Architecture" )
 <p align="center">
   <img src="model_plot.png" width="350"/>
+  <figcaption>Figure 1 : Model Architecturee</figcaption>
 </p>
