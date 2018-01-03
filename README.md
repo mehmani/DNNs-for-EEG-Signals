@@ -8,6 +8,7 @@ In this study a collected students' EEG brain activity while watching online cou
 Table 1 shows the features of this data set.</p>
 
 <table style="width:50%">
+  <caption>Table 1. EEG brain wave for confusion[1]</caption>
   <tr>
     <th>Feature</th>
   </tr>
@@ -44,16 +45,12 @@ Table 1 shows the features of this data set.</p>
     <td>Gamma 2 frequency band</td> 
     </tr>
     </table>
-
-
 </section>
-
-
 
 ## Model: 
 Bidirectional LSTM convolutional networks classifier with the following stricture is used for this study:
 
 <p align="center">
-  <img src="model_plot.png" width="350"/>
+  <img src="model_plot.png" width="500"/>
   <figcaption>Figure 1 : Model Architecturee</figcaption>
 </p>
