@@ -46,7 +46,6 @@ Table 1 shows the features of this data set.
 ## Model: 
 Bidirectional LSTM convolutional networks classifier with the following stricture is used for this study:
 
-![alt text](model_plot.png "Figure 1 : Model Architecture" )
 <p align="center">
   <img src="model_plot.png" width="350"/>
   <figcaption>Figure 1 : Model Architecturee</figcaption>
