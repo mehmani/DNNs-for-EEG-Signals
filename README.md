@@ -44,6 +44,6 @@ Table 1 shows the features of this data set.
     </tr>
 
 ## Model: 
-Bidirectional recurrent convolutional networks classifier with the following stricture is used for this study:
+Bidirectional LSTM convolutional networks classifier with the following stricture is used for this study:
 
-![alt text](model_plot.png)
+![alt text](model_plot.png "Figure 1 : Model Architecture" style="width:50%" )
