@@ -48,5 +48,3 @@ Bidirectional recurrent convolutional networks classifier with the following str
 
  
 (style="width:100%" model_plot.png "Figure 1")
-
-<img src="https://github.com/favicon.ico" width="48">
