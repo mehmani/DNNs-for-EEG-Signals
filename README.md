@@ -6,7 +6,7 @@ In this study a collected students' EEG brain activity while watching online cou
 A data set is from the 'EEG brain wave for confusion[1]'; EEG data from 10 students assigned to watch 20 videos, after each video, students rated their confusion level on a sclae of 1-7. These labels are quantized into two classes: (i) Confused, and (ii) Not confused
 Table 1 shows the features of this data set.
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th>Feature</th>
   </tr>
@@ -47,5 +47,5 @@ Table 1 shows the features of this data set.
 Bidirectional recurrent convolutional networks classifier with the following stricture is used for this study:
 
  
-![alt text](model_plot.png "Figure 1 - Model Architecture")
+![alt text,style="width:50%"](model_plot.png "Figure 1 - Model Architecture")
 
