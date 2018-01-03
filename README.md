@@ -47,5 +47,5 @@ Table 1 shows the features of this data set.
 Bidirectional recurrent convolutional networks classifier with the following stricture is used for this study:
 
  
-![alt text](LSTM-for-EGG-Signal/model_plot.png "Figure 1 - Model Architecture")
+![alt text](model_plot.png "Figure 1 - Model Architecture")
 
