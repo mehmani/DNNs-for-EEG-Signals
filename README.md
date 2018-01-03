@@ -46,31 +46,5 @@ Table 1 shows the features of this data set.
 ## Model: 
 Bidirectional recurrent convolutional networks classifier with the following stricture is used for this study:
 
-
-
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-time_distributed_379 (TimeDi (None, None, 140, 7, 20)  520       
-_________________________________________________________________
-dropout_253 (Dropout)        (None, None, 140, 7, 20)  0         
-_________________________________________________________________
-time_distributed_380 (TimeDi (None, None, 70, 3, 20)   0         
-_________________________________________________________________
-time_distributed_381 (TimeDi (None, None, 4200)        0         
-_________________________________________________________________
-lstm_305 (LSTM)              (None, None, 10)          168440    
-_________________________________________________________________
-dropout_254 (Dropout)        (None, None, 10)          0         
-_________________________________________________________________
-bidirectional_53 (Bidirectio (None, None, 40)          4960      
-_________________________________________________________________
-lstm_307 (LSTM)              (None, 10)                2040      
-_________________________________________________________________
-dense_127 (Dense)            (None, 1)                 11        
-=================================================================
-Total params: 175,971
-Trainable params: 175,971
-Non-trainable params: 0
-_________________________________________________________________
+LSTM-for-EGG-Signal/model_plot.png 
 
