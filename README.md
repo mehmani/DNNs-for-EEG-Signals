@@ -2,10 +2,9 @@
 
 In this study a collected students' EEG brain activity while watching online courses (video clips) is used to train a classifier that detects when a student is confused. In doing so, a bidirectional recurrent convolutional networks classifier is used.
 
-<section>
-  <h3>Data</h3>
-  <p>A data set is from the 'EEG brain wave for confusion[1]'; EEG data from 10 students assigned to watch 20 videos, after each video, students rated their confusion level on a sclae of 1-7. These labels are quantized into two classes: (i) Confused, and (ii) Not confused
-Table 1 shows the features of this data set.</p>
+## Data
+A data set is from the 'EEG brain wave for confusion[1]'; EEG data from 10 students assigned to watch 20 videos, after each video, students rated their confusion level on a sclae of 1-7. These labels are quantized into two classes: (i) Confused, and (ii) Not confused
+Table 1 shows the features of this data set.
 
 <table style="width:50%">
   <caption>Table 1. EEG brain wave for confusion[1]</caption>
@@ -45,7 +44,6 @@ Table 1 shows the features of this data set.</p>
     <td>Gamma 2 frequency band</td> 
     </tr>
     </table>
-</section>
 
 ## Model: 
 Bidirectional LSTM convolutional networks classifier with the following stricture is used for this study:
