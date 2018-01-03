@@ -8,7 +8,11 @@ Table 1 shows the features of this data set.
 
 <table style="width:100%">
   <tr>
-    <th>Attention - propriatary</th>
+    <th>Feature</th>
+  </tr>
+  
+  <tr>
+    <td>Attention - propriatary</td>
   </tr>
   <tr>
     <td>Meditation - propriatary</th>
@@ -19,6 +23,17 @@ Table 1 shows the features of this data set.
     
   </tr>
   <tr>
-    <td>Delta frequency band</td>
-    
+    <td>Theta frequency band</td> 
   </tr>
+    <tr>
+    <td>Alpha 1 frequency band</td> 
+    </tr>
+     <tr>
+    <td>Alpha 2 frequency band</td> 
+    </tr>
+    <tr>
+    <td>Beta 1 frequency band</td>
+    </tr>
+     <tr>
+    <td>Beta 2 frequency band</td> 
+    </tr>
