@@ -79,7 +79,7 @@ Figure 3 and Figure 4 show the recently published results using the same dataset
 ## Code
 <p><a href="https://github.com/mehmani/DNNs-for-EEG-Signals/blob/master/DNNforEEFSignals.ipynb"> The code is presented here </a></p>
 
-## Refrences
+## References 
 [1] Wang, Haohan, Yiwei Li, Xiaobo Hu, Yucong Yang, Zhu Meng, and Kai-min Chang. "Using EEG to Improve Massive Open Online Courses Feedback Interaction." In AIED Workshops. 2013.
 
 [2] Ni, Zhaoheng, Ahmet Cem Yuksel, Xiuyan Ni, Michael I. Mandel, and Lei Xie. "Confused or not Confused?: Disentangling Brain Activity from EEG Data Using Bidirectional LSTM Recurrent Neural Networks." In Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, pp. 241-246. ACM, 2017.
