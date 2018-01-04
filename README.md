@@ -1,7 +1,6 @@
-
 # Bidirectional Recurrent Convolutional Networks for Disentangling Brain Activity from EEG Data
 
-In this study a collected students' EEG brain activity while watching online courses (video clips) is used to train a classifier that detects when a student is confused. In doing so, a bidirectional recurrent convolutional networks classifier is used.
+In this study a collected students' EEG brain activity while watching online courses (video clips) is used to train a classifier that detects when a student is confused. In doing so, an optimized bidirectional recurrent convolutional networks classifier is used.
 
 ## Data
 A data set is from the 'EEG brain wave for confusion[1]'; EEG data from 10 students assigned to watch 20 videos, after each video, students rated their confusion level on a sclae of 1-7. These labels are quantized into two classes: (i) Confused, and (ii) Not confused
@@ -64,11 +63,19 @@ The procedure is performed for each student and the acciracy of the classificati
 </p>
 
 
-Figure 3 and Figure 4 show the recently published results using the same data set and accuracy metrics.
+Figure 3 and Figure 4 show the recently published results using the same dataset and accuracy metrics.
+
+<p align="center">
+  <img src="REF-2.jpg" width="500"/>
+  <figcaption>Figure 3 : Illustrated results in [2] </figcaption>
+</p>
+
 
 ## Code
-The code is presented here
+The code is presented here <p><a href="http://localhost:8888/notebooks/OneDrive/Documents/GitHub/DNNs-for-EEG-Signals/DNNforEEFSignals.ipynb"> Here </a></p>
+
 
 ## Refrences
-[1]
-[2]
+[1] Wang, Haohan, Yiwei Li, Xiaobo Hu, Yucong Yang, Zhu Meng, and Kai-min Chang. "Using EEG to Improve Massive Open Online Courses Feedback Interaction." In AIED Workshops. 2013.
+
+[2] Ni, Zhaoheng, Ahmet Cem Yuksel, Xiuyan Ni, Michael I. Mandel, and Lei Xie. "Confused or not Confused?: Disentangling Brain Activity from EEG Data Using Bidirectional LSTM Recurrent Neural Networks." In Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, pp. 241-246. ACM, 2017.
