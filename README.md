@@ -66,8 +66,8 @@ The procedure is performed for each student and the acciracy of the classificati
 Figure 3 and Figure 4 show the recently published results using the same dataset and accuracy metrics.
 
 <p align="center">
-  <img src="REF2.pdf" width="500"/>
-  <figcaption>Figure 3 : Illustrated results in [2] </figcaption>
+  <img src="REF-1.jpg" width="500"/>
+  <figcaption>Figure 3 : Illustrated results in [1] </figcaption>
 </p>
 
 
