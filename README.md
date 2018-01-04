@@ -76,7 +76,7 @@ Figure 3 and Figure 4 show the recently published results using the same dataset
 </p>
 
 ## Code
-<p><a href="DNNforEEFSignals.ipynb"> The code is presented here </a></p>
+<p><a href="DNNforEEFSignals.ipynbDNNforEEFSignals.ipynb"> The code is presented here </a></p>
 
 
 ## Refrences
