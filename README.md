@@ -47,7 +47,7 @@ Table 1 shows the features of this data set.
     </table>
 
 ## Model
-Bidirectional LSTM networks with convolutional layer to extract the siganl features is used as a classifier with the arcitecture illsutrated in Fig. 1, is used in this study:
+Optimized bidirectional LSTM networks with convolutional layer to extract the siganl features is used as a classifier with the arcitecture illsutrated in Fig. 1, is used in this study:
 
 <p align="center">
   <img src="model_plot.png" width="500"/>
