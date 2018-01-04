@@ -77,9 +77,9 @@ Figure 3 and Figure 4 show the recently published results using the same dataset
 </p>
 
 ## Code
-<p><a href="DNNforEEFSignals.ipynbDNNforEEFSignals.ipynb"> The code is presented here </a></p>
+<p><a href="https://github.com/mehmani/DNNs-for-EEG-Signals/blob/master/DNNforEEFSignals.ipynb"> The code is presented here </a></p>
 
-[a link](DNNforEEFSignals.ipynbDNNforEEFSignals.ipynb)
+[a link](https://github.com/mehmani/DNNs-for-EEG-Signals/blob/master/DNNforEEFSignals.ipynb)
 
 ## Refrences
 [1] Wang, Haohan, Yiwei Li, Xiaobo Hu, Yucong Yang, Zhu Meng, and Kai-min Chang. "Using EEG to Improve Massive Open Online Courses Feedback Interaction." In AIED Workshops. 2013.
