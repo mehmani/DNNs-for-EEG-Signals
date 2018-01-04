@@ -70,9 +70,13 @@ Figure 3 and Figure 4 show the recently published results using the same dataset
   <figcaption>Figure 3 : Illustrated results in [1] </figcaption>
 </p>
 
+<p align="center">
+  <img src="REF-2.jpg" width="500"/>
+  <figcaption>Figure 4 : Illustrated results in [2] </figcaption>
+</p>
 
 ## Code
-The code is presented here <p><a href="http://localhost:8888/notebooks/OneDrive/Documents/GitHub/DNNs-for-EEG-Signals/DNNforEEFSignals.ipynb"> Here </a></p>
+<p><a href="http://localhost:8888/notebooks/OneDrive/Documents/GitHub/DNNs-for-EEG-Signals/DNNforEEFSignals.ipynb"> The code is presented here </a></p>
 
 
 ## Refrences
