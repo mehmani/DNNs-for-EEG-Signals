@@ -57,6 +57,10 @@ Bidirectional LSTM networks with convolutional layer to extract the siganl featu
 Here, a trained classifieres on the data from all but one student, is tested on the held-out student. 
 The procedure is performed for each student and the acciracy of the classificatio is presented in Figure 2 
 
+<p align="center">
+  <img src="EndResulst.jpg" width="500"/>
+  <figcaption>Figure 2 : Experiment-based and Averageaccuracy </figcaption>
+</p>
 
 
 Figure 3 and Figure 4 show the recently published results using the same data set and accuracy metrics.
