@@ -1,6 +1,9 @@
 # Bidirectional Recurrent Convolutional Networks for Disentangling Brain Activity from EEG Data
 
-In this study a collected students' EEG brain activity while watching online courses (video clips) is used to train a classifier that detects when a student is confused. In doing so, an optimized bidirectional recurrent convolutional networks classifier is used.
+In this study a students' EEG brain activity while watching online courses (video clips) is used to train a classifier that detects when a student is confused. 
+
+
+A 10-student data set is from the 'EEG brain wave for confusion'; EEG data was collected from 10 students assigned to watch 20 videos.
 
 ## Data
 A data set is from the 'EEG brain wave for confusion[1]'; EEG data from 10 students assigned to watch 20 videos, after each video, students rated their confusion level on a sclae of 1-7. These labels are quantized into two classes: (i) Confused, and (ii) Not confused
@@ -47,7 +50,7 @@ Table 1 shows the features of this data set.
     </table>
 
 ## Model
-Optimized bidirectional LSTM networks with convolutional layer to extract the siganl features is used as a classifier with the arcitecture illsutrated in Fig. 1, is used in this study:
+Optimized bidirectional LSTM Neural Networks with a Convolutional layer to extract sequence signal features is used as a classifier with the architecture illsutrated in Fig. 1:
 
 <p align="center">
   <img src="model_plot.png" width="500"/>
@@ -55,8 +58,7 @@ Optimized bidirectional LSTM networks with convolutional layer to extract the si
 </p>
 
 ## Result
-Here, a trained classifieres on the data from all but one student, is tested on the held-out student. 
-The procedure is performed for each student and the acciracy of the classificatio is presented in Figure 2 
+Here, We trained the model using the data from nine students and tested it on the tenth student. The procedure is performed for each student separately: 
 
 <p align="center">
   <img src="EndResulst.jpg" width="500"/>
@@ -64,7 +66,7 @@ The procedure is performed for each student and the acciracy of the classificati
 </p>
 
 
-Figure 3 and Figure 4 show the recently published results using the same dataset and accuracy metrics.
+Figure 3 and Figure 4 show the recently published results using the same data-set and accuracy metrics.
 
 <p align="center">
   <img src="REF-1.jpg" width="500"/>
